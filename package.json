@@ -1,0 +1,32 @@
+{
+  "name": "hagane-charts",
+  "version": "0.1.0",
+  "description": "Graficas para business intelligence con angular-nvd3",
+  "main": "HaganeCharts.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaganeSoft/HgCharts.git"
+  },
+  "keywords": [
+    "charts",
+    "agular",
+    "nvd3",
+    "d3",
+    "buisness",
+    "intelligence",
+    "hagane"
+  ],
+  "author": "Hagane Software <info@hagane.software>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaganeSoft/HgCharts/issues"
+  },
+  "homepage": "https://github.com/HaganeSoft/HgCharts#readme",
+  "dependencies": {},
+  "davDependencies": {
+    "angular-nvd3": "^1.0.5"
+  }
+}
