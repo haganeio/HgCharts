@@ -25,8 +25,10 @@
     "url": "https://github.com/HaganeSoft/HgCharts/issues"
   },
   "homepage": "https://github.com/HaganeSoft/HgCharts#readme",
-  "dependencies": {},
-  "davDependencies": {
-    "angular-nvd3": "^1.0.5"
-  }
+  "dependencies": {
+    "angular-nvd3": "^1.0.5",
+    "d3": "^3.5.12",
+    "nvd3": "^1.8.1"
+  },
+  "devDependencies": {}
 }
